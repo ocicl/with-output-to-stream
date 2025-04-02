@@ -5,6 +5,6 @@ concise and intuitive semantics of FORMAT's stream argument.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/Hexstream/with-output-to-stream.git |
-| commit  | e94eec4                                                    |
+| commit  | c5309dc                                                    |
 | systems | with-output-to-stream                                      |
 |---------+------------------------------------------------------------|
